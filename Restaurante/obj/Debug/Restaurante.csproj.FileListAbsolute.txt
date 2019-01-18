@@ -1,0 +1,16 @@
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.csprojResolveAssemblyReference.cache
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.FormPrinc.resources
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.Cache
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Desayunos.resources
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Ticket.resources
+c:\users\chriss\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.Quejas_y_Sugerencias.resources
+C:\Users\CHRISS\Documents\Visual Studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.ComidasForm.CarnesFor.resources
+C:\Users\CHRISS\Documents\Visual Studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.ComidasForm.EnsaladasForm.resources
+C:\Users\CHRISS\Documents\Visual Studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.ComidasForm.Postres.resources
+C:\Users\CHRISS\documents\visual studio 2017\Projects\Restaurante\Restaurante\obj\Debug\Restaurante.ComidasForm.BebidasForm.resources
